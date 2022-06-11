@@ -5,3 +5,4 @@ settings.py
 enb/
 .DB_Store
 __pycache__/
+env/
