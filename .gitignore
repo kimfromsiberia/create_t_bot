@@ -6,3 +6,4 @@ enb/
 .DB_Store
 __pycache__/
 env/
+ru_cities.csv
